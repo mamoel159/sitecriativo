@@ -12,7 +12,7 @@
 }
 
 .cabecalho-titulo{
-    color: #ff00b3;
+    color: #585658;
     font-style: italic;
     font-variation-settings:
 }
@@ -30,15 +30,15 @@
 
 .cabecalho-lista-item a{
     text-decoration: none;
-    color:rgb(245, 128, 198);
+    color:rgb(71, 71, 71);
 }
 
 a:hover {
-    color: #ff00b3;
+    color: #222122;
 }
 
 a:active{
-    color: rgb(247, 0, 193);
+    color: rgb(0, 0, 0);
 
 }
 
@@ -50,7 +50,7 @@ a:active{
 
 .escola{
     background-image:linear-gradient( #fdfdfd, #f7c9e4) ;
-    color: rgb(253, 6, 109);
+    color: rgb(0, 30, 112);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,7 +72,7 @@ p{
 }
 
 .estudante{
-    color: rgb(253, 6, 109);
+    color: rgb(0, 185, 170);
     background-image:linear-gradient( #f7c9e4, #ffffff) ;
 }
 .estudante-titulo{
