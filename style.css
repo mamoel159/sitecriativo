@@ -49,7 +49,7 @@ a:active{
 }
 
 .escola{
-    background-image:linear-gradient( #fdfdfd, #ff0095) ;
+    background-image: #ff0095) ;
     color: rgb(0, 30, 112);
     display: flex;
     justify-content: center;
